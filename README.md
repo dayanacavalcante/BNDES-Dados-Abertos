@@ -16,14 +16,20 @@ Projeto que viabiliza a democratização de entendimento dos dados do BNDES a to
 ### Como?
 
 Através da aplicação do Método dos Mínimos Quadrados (MMQ) e da Regressão Linear.
+
+### Resultados
+
+Foi verificado que existe uma correlação significativa (R-squared = 0.556) entre os valores desembolsados para financiamentos de operações não automáticas e o IDH na região Sudeste.
+
+Para que as operações de financiamento não automáticas tenham um impacto maior no IDH nas demais regiões, sugerimos uma descentralização dessas operações, contribuindo assim para uma redução de desigualdades sociais em todas as regiões brasileiras.
     
 ### Dados 
 
 Foram utilizados dados referente ao período de 2013 à 2017.
 
-Os dados de Operações de Financiamento não automáticas estão disponíveis no link: https://dadosabertos.bndes.gov.br/dataset/operacoes-financiamento
+- Os dados de Operações de Financiamento não automáticas estão disponíveis no link: https://dadosabertos.bndes.gov.br/dataset/operacoes-financiamento
 
-Os valores de IDH estão disponíveis no link: http://ivs.ipea.gov.br/index.php/pt/
+- Os valores de IDH estão disponíveis no link: http://ivs.ipea.gov.br/index.php/pt/planilha
 
 ### Integrantes do Time 33:
 
