@@ -7,6 +7,13 @@ O Prêmio Dados Abertos para o Desenvolvimento é uma iniciativa do BNDES para i
 ### Data for Good (Time 33)
 
 Projeto que viabiliza a democratização de entendimento dos dados do BNDES a toda a população brasileira.
+
+- Assista ao vídeo do Projeto:
+
+[![](https://img.youtube.com/vi/J4PuE1ymAfs/maxresdefault.jpg)](https://www.youtube.com/watch?v=J4PuE1ymAfs) 
+
+- Acesse nosso site: https://fssarts.wixsite.com/bndes
+
 ### Objetivo deste projeto foi:
 
 1. Divulgar o impacto socioeconômico do BNDES nas regiões do Brasil;
