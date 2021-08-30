@@ -25,7 +25,7 @@ Para que as operações de financiamento não automáticas tenham um impacto mai
     
 ### Dados 
 
-Foram utilizados dados referente ao período de 2013 à 2017.
+Para as operações de financiamento, foram utilizados os dados referente ao período de 2012 à 2016. Para os valores de IDH, foi consultado o período de 2013 à 2017.
 
 - Os dados de Operações de Financiamento não automáticas estão disponíveis no link: https://dadosabertos.bndes.gov.br/dataset/operacoes-financiamento
 
